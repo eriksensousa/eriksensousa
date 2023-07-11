@@ -4,7 +4,7 @@ Hello, I'm Eriksen Sousa!
 
 - 💼 Project Manager and Innovation Management Teacher
 
-- 📈 Today I'm study Computer Egineering 
+- 📈 Today I'm study Computer Engineering 
 
 - ❤️ I love read many books, learn new things and puzzle games
 

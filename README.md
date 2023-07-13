@@ -2,7 +2,7 @@ Hello, I'm Eriksen Sousa!
 
 **About me**
 
-- 💼 Project Manager and Innovation Management Teacher
+- 💼 I'm a Project Manager and Innovation Management Teacher
 
 - 📈 Today I'm study Computer Engineering 
 

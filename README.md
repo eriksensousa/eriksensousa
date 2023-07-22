@@ -1,6 +1,6 @@
-Hello, I'm Eriksen Sousa!
-
-**About me**
+**Hello, I'm Eriksen Sousa!**
+#
+**ABOUT ME**
 
 - 💼 I'm a Project Manager and Innovation Management Teacher
 
@@ -9,6 +9,13 @@ Hello, I'm Eriksen Sousa!
 - ❤️ I love read many books, learn new things and puzzle games
 
 - 💬 Talk to me in my Linked.in profile [here](https://www.linkedin.com/in/eriksensousa)
+
+#
+> I'm 35 years old. I dedicate myself to the areas of technology and innovation from a very early age. 
+> I graduated in Industrial Production Management and I have an MBA in Strategic Project Management and Agile Methodologies. 
+> As a professor, I have already given courses in the areas of management and innovation. 
+> I consider myself a technology enthusiast and an education idealist who imagines the convergence of these two complementary areas as the essential path to a better future.
+#
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>

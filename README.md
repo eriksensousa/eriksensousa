@@ -4,7 +4,6 @@
 > I graduated in Industrial Production Management and I have an MBA in Strategic Project Management and Agile Methodologies. 
 > As a professor, I have already given courses in the areas of management and innovation. 
 > I consider myself a technology enthusiast and an education idealist who imagines the convergence of these two complementary areas as the essential path to a better future.
-
 #
 **ABOUT ME**
 

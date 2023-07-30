@@ -13,7 +13,7 @@
 
 - ❤️ I love read many books, learn new things and puzzle games
 
-- 💬 Talk to me in my Linked.in profile [here](https://www.linkedin.com/in/eriksensousa)
+- 💬 Talk to me in my Linked.iN profile [here](https://www.linkedin.com/in/eriksensousa)
 
 
 #

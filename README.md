@@ -23,13 +23,6 @@
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/eriksensousa/)
    [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/khayyin)
    <a href = "mailto:eriksen.amaral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-</div>
-<br>
-<div align="left">
-  <a href="https://github.com/eriksensousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eriksensousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriksensousa&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
     <h3>TECHNOLOGIES</h3>
@@ -42,10 +35,10 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
 <div align="left">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eriksensousa&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eriksensousa&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
    <h3>CERTIFICATIONS</h3>
 
@@ -55,6 +48,8 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eriksensousa&repo=Microsoft-Certified-Data-Analyst-Associate-with-Power-BI&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eriksensousa/Microsoft-Certified-Data-Analyst-Associate-with-Power-BI)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eriksensousa&repo=IBM-Applied-Data-Science-Capstone&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eriksensousa/IBM-Applied-Data-Science-Capstone) 
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 <br>

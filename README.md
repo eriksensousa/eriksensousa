@@ -11,7 +11,7 @@
 
 - 💼 I'm a Project Manager and Innovation Management Teacher
 
-- 📈 Today I'm study Computer Engineering 
+- 📈 Today I'm study Computer Engineering focused in Back-End Development and Data Science Studies
 
 - ❤️ I love read many books, learn new things and puzzle games
 

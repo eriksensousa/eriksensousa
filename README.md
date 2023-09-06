@@ -9,7 +9,7 @@
 <div>
 <h3>ABOUT ME</h3>
 
-- 💼 I'm a Project Manager and Innovation Management Professor
+- 💼 I'm a SCRUM Master, Project Manager and Innovation Management Professor
 
 - 📈 Today I'm study Computer Engineering focused in Back-End Development and Data Science Studies
 

@@ -1,7 +1,7 @@
  <h1>Hello, I'm Eriksen Sousa!</h1>
 <div>
   
-> I'm 35 years old. I dedicate myself to the areas of technology and innovation from a very early age. 
+> I'm 37 years old. I dedicate myself to the areas of technology and innovation from a very early age. 
 > I graduated in Industrial Production Management and I have an MBA in Strategic Project Management and Agile Methodologies. 
 > As a professor, I have already given courses in the areas of management and innovation. 
 > I consider myself a technology enthusiast and an education idealist who imagines the convergence of these two complementary areas as the essential path to a better future.

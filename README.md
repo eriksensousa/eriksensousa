@@ -19,7 +19,7 @@
 
 - ❤️ I love read many books, learn new things and puzzle games
 
-- 💬 I love to learn other languages and I currently speak Spanish and (a little bit of) German, in addition to English and Portuguese
+- 💬 I love to learn other languages and I currently speak Spanish and (a little bit of) French, in addition to English and Portuguese
 
 ---
 

@@ -1,15 +1,19 @@
  <h1>Hello, I'm Eriksen Sousa!</h1>
 <div>
 
-🎓 Computer Engineer  
+ 🏆 Innovation & Development Project Manager | Data Strategist | Responsible AI & Technology Innovation Enthusiast
+
+ 🎓 Computer Engineer & IBM Data Analyst Certified Professional 
+
 📚 Postgraduate in DevOps Engineering  
+
 💻 Passionate about technology, automation, and software engineering best practices  
 
 ---
 
 ## 🧑‍💻 About Me 
 
-- 💼 I'm a SCRUM Master, Project Manager and Innovation Management Professor
+- 💼 I'm a SCRUM Master, Project Manager and Smart Manufacturing & Production Systems Professor
 
 - 📈 My focus is to bridge development and operations to deliver scalable, secure, and efficient solutions.
 

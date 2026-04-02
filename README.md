@@ -28,8 +28,24 @@
 ---
 
 ## 🌐 Connect with Me
-- LinkedIn: [linkedin.com/in/eriksenamaral]((https://www.linkedin.com/in/eriksensousa/))  
-- Email: eriksen_amaral@hotmail.com  
+
+<p align="left">
+  <a href="mailto:eriksen.sousa@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/eriksensousa">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/eriksensousa">
+    <img src="https://img.shields.io/badge/GitHub-2F4F4F?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🔥 Streaks & Contributions
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eriksensousa&theme=blue-green)  
 
 ---
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)

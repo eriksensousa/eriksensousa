@@ -29,17 +29,9 @@
 
 ## 🌐 Connect with Me
 - LinkedIn: [linkedin.com/in/eriksenamaral]((https://www.linkedin.com/in/eriksensousa/))  
-- Email: eriksen.sousa@hotmail.com  
+- Email: eriksen_amaral@hotmail.com  
 
 ---
-
-![Eriksen's GitHub stats](https://github-readme-stats.vercel.app/api?username=eriksensousa&show_icons=true&theme=tokyonight)  
- 
-
-
-
-
-
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>

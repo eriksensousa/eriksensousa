@@ -7,8 +7,7 @@
 
 ---
 
-## 🧑‍💻 About Me
-I am a Computer Engineer with a specialization in DevOps Engineering.  
+## 🧑‍💻 About Me 
 
 - 💼 I'm a SCRUM Master, Project Manager and Innovation Management Professor
 
@@ -34,19 +33,9 @@ I am a Computer Engineer with a specialization in DevOps Engineering.
 
 ---
 
-## 📊 GitHub Stats
-
 ![Eriksen's GitHub stats](https://github-readme-stats.vercel.app/api?username=eriksensousa&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eriksensousa&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eriksensousa&theme=tokyonight)  
+ 
 
----
-
-## 🏆 Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=eriksensousa&theme=tokyonight&margin-w=10&margin-h=10)
-
-
-   
 
 
 

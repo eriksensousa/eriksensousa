@@ -47,6 +47,12 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Eriksen's GitHub stats](https://github-readme-stats.vercel.app/api?username=eriksensousa&show_icons=true&theme=blue-green)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eriksensousa&layout=compact&theme=blue-green)  
+
+---
 ## 🔥 Streaks & Contributions
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eriksensousa&theme=blue-green)  

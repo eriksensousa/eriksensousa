@@ -43,14 +43,7 @@
   <a href="https://github.com/eriksensousa">
     <img src="https://img.shields.io/badge/GitHub-2F4F4F?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-![Eriksen's GitHub stats](https://github-readme-stats.vercel.app/api?username=eriksensousa&show_icons=true&theme=blue-green)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eriksensousa&layout=compact&theme=blue-green)  
+</p> 
 
 ---
 ## 🔥 Streaks & Contributions
